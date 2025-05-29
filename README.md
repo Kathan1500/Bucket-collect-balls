@@ -2,8 +2,8 @@
 
 **Exercise 3 – CS5450 Mobile Programming**
 Dr. Sabah Mohammed, Lakehead University
-Developed by: *\Kathan Suthar*
-Date: *\[28 May, 2025]*
+Developed by: *Kathan Suthar*
+Date: *28 May, 2025*
 
 ---
 
@@ -38,7 +38,8 @@ Date: *\[28 May, 2025]*
 bucket_collect_balls/
 ├── lib/
 │   └── main.dart        # All game logic and UI
-├── assets/              # (Optional) Screenshots for report
+├── assets/              # Screenshots for report
+│   └── bucket.png       # Bucket image
 ├── pubspec.yaml         # Project metadata and dependencies
 ├── android/             # Platform configs (no manual edits needed)
 ├── ios/                 # Platform configs (no manual edits needed)
@@ -60,7 +61,7 @@ bucket_collect_balls/
 1. **Clone the Project**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/bucket_collect_balls.git
+   git clone https://github.com/Kathan1500/bucket_collect_balls.git
    cd bucket_collect_balls
    ```
 2. **Install Dependencies**
@@ -104,15 +105,6 @@ bucket_collect_balls/
 
 ---
 
-## 🖼 Screenshots
-
-*(Replace with your own game images for your report or submission!)*
-
-|         Player Name Prompt        |             Gameplay             |      Game Over & Leaderboard     |
-| :-------------------------------: | :------------------------------: | :------------------------------: |
-| ![name](assets/screens/start.png) | ![game](assets/screens/game.png) | ![over](assets/screens/over.png) |
-
----
 
 ## 💡 Customization
 
@@ -135,10 +127,10 @@ bucket_collect_balls/
 
 ## 👤 Author & Submission
 
-* **Name:** *\[Your Full Name]*
+* **Name:** *Kathan Suthar*
 * **Course:** CS5450 Mobile Programming
 * **Instructor:** Dr. Sabah Mohammed
-* **Date:** *\[Submission Date]*
+* **Date:** *28 May 2025*
 
 ---
 
@@ -151,9 +143,4 @@ bucket_collect_balls/
 ---
 
 **Enjoy the game and good luck!**
-*— \[Your Name], COMP54 Mobile Programming*
-
----
-
-Let me know if you want this in **Word, PDF, or with even more visuals**!
-You can paste screenshots directly, or keep the file Markdown/Plain Text for your instructor’s review.
+*— Kathan Suthar, COMP54 Mobile Programming*
